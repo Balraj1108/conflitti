@@ -7,7 +7,7 @@ public class Test {
 
 		System.out.println("ciao buon natale");
 		System.out.println("ciao stai natale");
-		System.out.println("ciao come lol");
+		System.out.println("ciao come lol maledetto");
 
 	}
 
